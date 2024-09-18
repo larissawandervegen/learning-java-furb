@@ -32,27 +32,3 @@ public class B1018 {
         scanner.close();
     }
 }
-
-// Ler(VALOR);
-// AUX = VALOR;
-// C100 = VALOR / 100;
-// AUX = AUX - (C100 * 100);
-// C50 = AUX / 50;
-// AUX = AUX - (C50 * 50);
-// C20 = AUX / 20;
-// AUX = AUX - (C20 * 20);
-// C10 = AUX / 10;
-// AUX = AUX - (C10 * 10)
-// C5 = AUX / 5;
-// AUX = AUX - (C5 * 5);
-// C2 = AUX / 2;
-// AUX = AUX - (C2 * 2);
-// C1 = AUX; // não precisa da fórmula pq só chega a 1
-// Escrever(VALOR);
-// Escrever("100: " + C100)
-// Escrever("50: " + C50);
-// Escrever("20: " + C20);
-// Escrever("10: " + C10);
-// Escrever("5: " + C5);
-// Escrever("2: " + C2);
-// Escrever("1: " + C1);

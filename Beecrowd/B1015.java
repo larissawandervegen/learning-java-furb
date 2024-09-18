@@ -16,9 +16,3 @@ public class B1015 {
         scanner.close();
     }
 }
-
-// Ler (x1)
-
-// distancia = sqrt(((x2 - x1)^2 + ((y2 - y1)^2));
-
-// escrever(distancia)

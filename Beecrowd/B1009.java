@@ -4,7 +4,7 @@ public class B1009 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String nomeVendedor = scanner.nextLine();
+        // String nomeVendedor = scanner.nextLine();
         double salarioFixo = scanner.nextDouble();
         int totalVendas = scanner.nextInt();
         

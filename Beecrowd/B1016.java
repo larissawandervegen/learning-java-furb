@@ -11,11 +11,3 @@ public class B1016 {
         scanner.close();
     }
 }
-
-// int distancia , tempo;
-
-// ler (distancia);
-
-// tempo = distancia * 2;
-
-// escrever (tempo);
